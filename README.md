@@ -1,2 +1,2 @@
 # Agenda
-Site de agenda usando Django
+Site de agenda usando Python e o Django
